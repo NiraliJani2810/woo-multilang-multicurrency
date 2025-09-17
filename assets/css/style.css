@@ -1,0 +1,22 @@
+/* Woo Multilang Multicurrency Styles */
+
+#currency-switcher {
+  margin: 20px 0;
+  display: flex;
+  gap: 10px;
+}
+
+#currency-switcher button {
+  background: #0073aa;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.2s ease;
+}
+
+#currency-switcher button:hover {
+  background: #005177;
+}
